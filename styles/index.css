@@ -29,6 +29,14 @@
     margin-bottom: 30px;
 }
 
+ul {
+    margin-left: 80px;
+}
+
 li {
     margin-bottom: 10px;
+}
+
+.header3 {
+    margin-top: 60px;
 }
